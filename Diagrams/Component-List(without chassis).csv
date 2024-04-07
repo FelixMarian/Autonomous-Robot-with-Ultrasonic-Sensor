@@ -1,0 +1,4 @@
+﻿Name,Quantity,Component
+"SERVORightWheel, SERVOLeftWheel",2,"Continuous Micro Servo"
+"UArduino uno",1," Arduino Uno R3"
+"DISTDistance Sensor HC-SR04",1," Ultrasonic Distance Sensor (4-pin)"
